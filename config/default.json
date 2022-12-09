@@ -1,0 +1,16 @@
+{
+  "port": 3000,
+  "swagger": {
+    "title": "Nestjs News",
+    "version": "1.0.0"
+  },
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "username": "postgres",
+    "password": "changeme",
+    "database": "news",
+    "synchronize": true
+  },
+  "sampleToken": "test123"
+}
